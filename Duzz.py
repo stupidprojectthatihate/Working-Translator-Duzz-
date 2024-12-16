@@ -13,5 +13,5 @@ while True:
         break  # Exit the loop
     
     translated_word = translate_to_uzz(word)
-    print(f"The translated word is: {translated_word}")
+    print(f"Thuzz truzz wouzz iuzz: {translated_word}")
 
